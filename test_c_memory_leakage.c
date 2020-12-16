@@ -10,7 +10,7 @@ int main(int argc, char const *argv[])
     int * p;
     int b;
     int c[2];
-	int d;
+	int dd;
  
     b = 1;
     a = b; //使用不当的类型转换
